@@ -108,5 +108,4 @@ Se sube el proyecto
 
 <br>
 
-Made with :heart: by [RamSantoyo](# Curso de git - Infotec
-
+Made with :heart: by [RamSantoyo](https://github.com/RamSantoyo)
